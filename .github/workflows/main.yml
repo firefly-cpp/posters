@@ -1,0 +1,29 @@
+name: Create thumbnails
+on: [push]
+jobs:
+  build:
+    if: "!contains(github.event.head_commit.message, 'create-pull-request')"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+      - name: generate_thumbnails
+        uses: KukovecRok/thumbnails-readme-action@v1.3
+      - uses: actions/upload-artifact@v3
+        with:
+          name: my-generated-thumbnails
+          path: |
+            README.md
+            poster_thumbnails/**
+      - run: sudo chown -R $USER:$USER .;
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4.2.3
+        with:
+          commit-message: create-pull-request Update README.md and image_thumbnails
+          add-paths: |
+            README.md
+            image_thumbnails/**
+          base: ${{ github.head_ref }}
+          title: Update README.md and image_thumbnails
+          body: Automatically generated image thumbnails and pull-request
