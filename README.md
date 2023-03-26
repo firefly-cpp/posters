@@ -6,6 +6,11 @@ Fister Jr, I., Fister, I., Iglesias, A., & Galvez, A. (2021). [On detecting the 
 
 Fister Jr, I., Deb, S., & Fister, I. (2020). [Population-based metaheuristics for association rule text mining](https://github.com/firefly-cpp/posters/blob/main/Iztok_ISMSI_2019.pdf). In Proceedings of the 2020 4th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (pp. 19-23).
 
+# License
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 # Generated Thumbnails
 [![Iztok_GECCO_2022](/image_thumbnails/pdf_Iztok_GECCO_2022_thumb.png)](Iztok_GECCO_2022.pdf)
