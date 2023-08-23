@@ -6,6 +6,8 @@ Fister Jr, I., Fister, I., Iglesias, A., & Galvez, A. (2021). [On detecting the 
 
 Fister Jr, I., Deb, S., & Fister, I. (2020). [Population-based metaheuristics for association rule text mining](https://github.com/firefly-cpp/posters/blob/main/Iztok_ISMSI_2019.pdf). In Proceedings of the 2020 4th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (pp. 19-23).
 
+Fister, D., Fister, I., Rauter, S., Fister Jr, I. [Generating eating plans for athletes using the particle swarm optimization](https://github.com/firefly-cpp/posters/blob/main/Dusan_CINTI_2016.pdf). 2016 IEEE 17th International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2016.
+
 # License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
