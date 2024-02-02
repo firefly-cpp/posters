@@ -1,11 +1,27 @@
-# posters
+# About
+
+This repository contains a compilation of conference posters featuring papers I authored or co-authored. It undergoes regular updates.
+
+# Contents
+
+- [2022](#2022)
+- [2021](#2021)
+- [2020](#2020)
+- [2016](#2016)
+  
+## 2022
 
 Fister Jr, I., & Fister, I. (2022). [On stochastic evolving algorithms](https://github.com/firefly-cpp/posters/blob/main/Iztok_GECCO_2022.pdf). In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 244-247).
 
+## 2021
+
 Fister Jr, I., Fister, I., Iglesias, A., & Galvez, A. (2021). [On detecting the novelties in metaphor-based algorithms](https://github.com/firefly-cpp/posters/blob/main/Iztok_GECCO_2021.pdf). In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 71-72).
+
+## 2020
 
 Fister Jr, I., Deb, S., & Fister, I. (2020). [Population-based metaheuristics for association rule text mining](https://github.com/firefly-cpp/posters/blob/main/Iztok_ISMSI_2019.pdf). In Proceedings of the 2020 4th International Conference on Intelligent Systems, Metaheuristics & Swarm Intelligence (pp. 19-23).
 
+## 2016
 Fister, D., Fister, I., Rauter, S., Fister Jr, I. [Generating eating plans for athletes using the particle swarm optimization](https://github.com/firefly-cpp/posters/blob/main/Dusan_CINTI_2016.pdf). 2016 IEEE 17th International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2016.
 
 # License
