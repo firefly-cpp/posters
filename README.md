@@ -1,13 +1,15 @@
-# About
+<h1 align="center">
+    🖼️ Posters
+</h1>
+
+<p align="center">
+    <a href="#2016">2016</a> •
+    <a href="#2020">2020</a> •
+    <a href="#2021">2021</a> •
+    <a href="#2022">2022</a>
+</p>
 
 This repository contains a compilation of conference posters featuring papers I authored or co-authored. It undergoes regular updates.
-
-# Contents
-
-- [2022](#2022)
-- [2021](#2021)
-- [2020](#2020)
-- [2016](#2016)
   
 ## 2022
 
@@ -24,7 +26,7 @@ Fister Jr, I., Deb, S., & Fister, I. (2020). [Population-based metaheuristics fo
 ## 2016
 Fister, D., Fister, I., Rauter, S., Fister Jr, I. [Generating eating plans for athletes using the particle swarm optimization](https://github.com/firefly-cpp/posters/blob/main/Dusan_CINTI_2016.pdf). 2016 IEEE 17th International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2016.
 
-# License
+## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
@@ -33,10 +35,7 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
-
-
-
-# Thumbnails
+## Thumbnails
 [![Iztok_ISMSI_2019](/image_thumbnails/pdf_Iztok_ISMSI_2019_thumb.png)](Iztok_ISMSI_2019.pdf)
 [![Iztok_GECCO_2021](/image_thumbnails/pdf_Iztok_GECCO_2021_thumb.png)](Iztok_GECCO_2021.pdf)
 [![Dusan_CINTI_2016](/image_thumbnails/pdf_Dusan_CINTI_2016_thumb.png)](Dusan_CINTI_2016.pdf)
