@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+    <a href="#2016">2014</a> •
     <a href="#2016">2016</a> •
     <a href="#2020">2020</a> •
     <a href="#2021">2021</a> •
@@ -25,6 +26,10 @@ Fister Jr, I., Deb, S., & Fister, I. (2020). [Population-based metaheuristics fo
 
 ## 2016
 Fister, D., Fister, I., Rauter, S., Fister Jr, I. [Generating eating plans for athletes using the particle swarm optimization](https://github.com/firefly-cpp/posters/blob/main/Dusan_CINTI_2016.pdf). 2016 IEEE 17th International Symposium on Computational Intelligence and Informatics (CINTI). IEEE, 2016.
+
+## 2014
+
+Fister, D., Fister, I. Jr., [Mobilna navigacija za športne pilote](https://github.com/firefly-cpp/posters/blob/main/Dusan_IFAM2014.pdf). IFAM (International trade fair of automation & mechatronic) 2014.
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
