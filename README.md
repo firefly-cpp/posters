@@ -41,10 +41,12 @@ Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 
+
 # Thumbnails
+[![Iztok_GECCO_2021](/image_thumbnails/pdf_Iztok_GECCO_2021_thumb.png)](Iztok_GECCO_2021.pdf)
+[![Iztok_GECCO_2022](/image_thumbnails/pdf_Iztok_GECCO_2022_thumb.png)](Iztok_GECCO_2022.pdf)
 [![Dusan_CINTI_2016](/image_thumbnails/pdf_Dusan_CINTI_2016_thumb.png)](Dusan_CINTI_2016.pdf)
+[![nacrtovanje-sportnih-jedilnikov](/image_thumbnails/pdf_nacrtovanje-sportnih-jedilnikov_thumb.png)](nacrtovanje-sportnih-jedilnikov.pdf)
 [![Iztok_ISMSI_2019](/image_thumbnails/pdf_Iztok_ISMSI_2019_thumb.png)](Iztok_ISMSI_2019.pdf)
 [![umetni-sportni-trener](/image_thumbnails/pdf_umetni-sportni-trener_thumb.png)](umetni-sportni-trener.pdf)
-[![Iztok_GECCO_2021](/image_thumbnails/pdf_Iztok_GECCO_2021_thumb.png)](Iztok_GECCO_2021.pdf)
-[![nacrtovanje-sportnih-jedilnikov](/image_thumbnails/pdf_nacrtovanje-sportnih-jedilnikov_thumb.png)](nacrtovanje-sportnih-jedilnikov.pdf)
-[![Iztok_GECCO_2022](/image_thumbnails/pdf_Iztok_GECCO_2022_thumb.png)](Iztok_GECCO_2022.pdf)
+[![Dusan_IFAM2014](/image_thumbnails/pdf_Dusan_IFAM2014_thumb.png)](Dusan_IFAM2014.pdf)
